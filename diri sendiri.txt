@@ -5,3 +5,4 @@ jadwal harian
 3. makan bergizi
   -tinggi protein dan serat
 4. belajar coding
+  -html,css dan js
