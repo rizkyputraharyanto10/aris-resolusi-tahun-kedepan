@@ -3,3 +3,4 @@ jadwal harian
 1. bangun jam 5
 2. olahraga teratur
 3. makan bergizi
+4. belajar coding
